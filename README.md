@@ -9,3 +9,4 @@ Operating System Course Project | Tongji University
 1.所有电梯初始状态都在第一层。</br>
 2.每个电梯在没有相应任务的情况下停留在当前楼层。</br>
 <img src="https://kefan-zheng.space/images/电梯调度.png" width = "400" height = "300" align=left />
+(有时会出bug，有空改进)2021-0521
