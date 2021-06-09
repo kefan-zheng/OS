@@ -39,4 +39,4 @@ Operating System Course Project | Tongji University
 2. 按照50%的指令顺序执行，25%的指令均匀分布在前地址部分，25%的指令均匀分布在后地址部分的原则设置指令访问次序。
 3. 一个作业执行完成后，计算并显示作业执行过程中发生的缺页率。
 
-<img src="https://kefan-zheng.space/images/pagemechanism"  style="zoom: 50%;" align='left'/>
+<img src="https://kefan-zheng.space/images/pagemechanism.png"  style="zoom: 50%;" align='left'/>
