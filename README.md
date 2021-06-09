@@ -20,7 +20,7 @@ Operating System Course Project | Tongji University
 3. 在电梯内部按下警报键后，整部电梯将会进入维修状态，数码显示屏显示红色高亮提示且整部电梯的内部按键将会失效。
 
 (有时会出bug，有空改进)2021-0521</br>
-<img src="https://kefan-zheng.space/images/elevator.png"  style="zoom:67%;"/>
+<img src="https://kefan-zheng.space/images/elevator.png"  style="zoom:50%;"/>
 
 ### 2. 内存管理-请求调页
 
@@ -39,4 +39,4 @@ Operating System Course Project | Tongji University
 2. 按照50%的指令顺序执行，25%的指令均匀分布在前地址部分，25%的指令均匀分布在后地址部分的原则设置指令访问次序。
 3. 一个作业执行完成后，计算并显示作业执行过程中发生的缺页率。
 
-<img src="https://kefan-zheng.space/images/pagemechanism"  style="zoom: 67%;" align='left'/>
+<img src="https://kefan-zheng.space/images/pagemechanism"  style="zoom: 50%;" align='left'/>
